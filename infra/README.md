@@ -1,4 +1,4 @@
-🧐 Overview
+Overview
 This solves the problem of "information overload" by allowing users to upload vast amounts of text or PDF data and query it using natural language. Unlike traditional keyword search, DocuFast uses Semantic Search to understand the intent behind a query.
 The core of this project is Endee, which handles the high-dimensional vector indexing and similarity search with extreme efficiency.
 ✨ Key Features
